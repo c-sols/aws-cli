@@ -1,4 +1,4 @@
 include makefiles/Makefile.docker
 
-REPO_NAME= csols/aws-cli
+REPO_NAME= csolutions/aws-cli
 TAG=latest

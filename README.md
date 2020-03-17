@@ -8,5 +8,5 @@ aws [documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-co
 docker run --rm -it \
 --env AWS_ACCESS_KEY_ID \
 --env AWS_SECRET_ACCESS_KEY \
-reiniel/aws-cli:latest ${command}
+csolutions/aws-cli:latest ${command}
 ```
